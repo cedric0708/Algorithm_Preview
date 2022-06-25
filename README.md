@@ -1,1 +1,1 @@
-Algorithm preview repositoty
+##  Algorithm and Applications source code repository

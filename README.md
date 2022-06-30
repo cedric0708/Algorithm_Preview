@@ -1,4 +1,4 @@
-#  Algorithm and Applications source code repository
+#  Algorithm and Applications Preview Study source code repository
 ## 목적
 - 2학기 학교 수업 대비
 - 코딩 테스트 대비
